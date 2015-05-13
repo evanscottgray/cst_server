@@ -1,0 +1,4 @@
+[cst_server]
+api_key = some_uuid_here
+user = some_user_here
+token_command = some_command_here
